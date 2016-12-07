@@ -1,0 +1,12 @@
+{
+  "name": "lightning",
+  "version": "1.0.0",
+  "description": "- Storybook in 10 minutes - Jest in 10 minutes - Styled Components in 10 minutes - MobX in 10 minutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
