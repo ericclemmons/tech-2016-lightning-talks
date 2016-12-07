@@ -5,6 +5,8 @@
 - Styled Components in 10 minutes
 - MobX in 10 minutes
 
+Check out the `example` branch for all of this working in action.
+
 ### Setup
 
 Before getting started, let's make sure this is a workable project:
