@@ -1,0 +1,1 @@
+exports[`santize should strip whitespace 1`] = `"test"`;
