@@ -1,9 +1,9 @@
 # Eric's Lightning Talks
 
 - Storybook in 10 minutes
-- Jest in 10 minutes
 - Styled Components in 10 minutes
 - MobX in 10 minutes
+- Jest in 10 minutes
 
 Check out the `example` branch for all of this working in action.
 
