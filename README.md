@@ -1,9 +1,9 @@
 # Eric's Lightning Talks
 
-- Storybook in 10 minutes
-- Styled Components in 10 minutes
-- MobX in 10 minutes
-- Jest in 10 minutes
+- [Storybook in 10 minutes](#storybook)
+- [Styled Components in 10 minutes](#styled-components)
+- [MobX in 10 minutes](#mobx)
+- [Jest in 10 minutes](#jest)
 
 Check out the `example` branch for all of this working in action.
 
@@ -15,6 +15,8 @@ Before getting started, let's make sure this is a workable project:
 2. `npm init -y`
 3. `nvm use 7.2.0`
 4. `yarn add react react-dom`
+
+---
 
 ### Storybook
 
@@ -56,6 +58,7 @@ Before getting started, let's make sure this is a workable project:
   ```
 6. Add `onChange`, `onSubmit` events via the `action` helper.
 
+--
 
 ### Styled Components
 
@@ -96,6 +99,8 @@ Before getting started, let's make sure this is a workable project:
 
 3. You can even wrap existing components via `styled(Component)`,
    **as long as they accept the `className` prop**.
+
+---
 
 ### MobX
 
@@ -158,6 +163,7 @@ Before getting started, let's make sure this is a workable project:
   }
   ```
 
+---
 
 ### Jest
 
